@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U5bGN0ZHA3a2l1eXR3c2VmM3NoNHo5dG04aXhkaDVuZ2N6bWhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6IBrYTyvo1UJOXF9u/giphy.gif" alt="readme gif">
+  <br>
+  <a href="https://www.codewars.com/users/Szymonn87"><img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="codewars logo"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/szymon-niedorezo-05a0a6307/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo"></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Simon01001&label=PROFILE+VIEWS" alt="view counter">
+  <h1>Hi, I'm Simon 👋</h1>
+</div>
 
-<!--
-**Simon01001/Simon01001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+Web developer always on the lookout to expand my skills🎓
+- 🌍 Based in beautiful Cornwall UK
+- 🌐 Passionate about coding and constantly looking to improve my skills
+- 👁‍🗨 Currently learning more about JavaScript in Rails
+- 🚶‍♂️ In my free time I love to get out into nature for long hiking trips
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,scss,git,postgres" alt="tech stack icons">
+</div>
